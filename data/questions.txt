@@ -1,0 +1,23 @@
+# Interactive Quiz System — Question Bank
+# Format: TYPE|ID|TEXT|CATEGORY|TIME_LIMIT|CHOICES|CORRECT_INDEX
+
+MCQ|1|What is the capital of France?|GENERAL|15|Paris;London;Berlin;Madrid|0
+MCQ|2|Which planet is known as the Red Planet?|SCIENCE|15|Venus;Mars;Jupiter;Saturn|1
+MCQ|3|What is the largest ocean on Earth?|GENERAL|15|Atlantic;Indian;Arctic;Pacific|3
+MCQ|4|Who painted the Mona Lisa?|HISTORY|15|Van Gogh;Picasso;Leonardo da Vinci;Michelangelo|2
+MCQ|5|What does CPU stand for?|PROGRAMMING|15|Central Processing Unit;Computer Personal Unit;Central Program Utility;Core Processing Unit|0
+MCQ|6|What is the chemical symbol for gold?|SCIENCE|15|Go;Gd;Au;Ag|2
+MCQ|7|In which year did World War II end?|HISTORY|15|1943;1944;1945;1946|2
+MCQ|8|What is 12 x 12?|MATH|10|124;144;134;154|1
+MCQ|9|Which data structure uses FIFO?|PROGRAMMING|15|Stack;Queue;Tree;Graph|1
+MCQ|10|What is the square root of 169?|MATH|10|11;12;13;14|2
+MCQ|11|Which language is known as the mother of all languages?|PROGRAMMING|15|Python;C;Assembly;Java|1
+MCQ|12|What is the powerhouse of the cell?|SCIENCE|15|Nucleus;Ribosome;Mitochondria;Golgi apparatus|2
+MCQ|13|Who discovered gravity?|SCIENCE|15|Einstein;Newton;Galileo;Hawking|1
+MCQ|14|What is the value of Pi to 2 decimal places?|MATH|10|3.12;3.14;3.16;3.18|1
+MCQ|15|Which sorting algorithm has the best average time complexity?|PROGRAMMING|20|Bubble Sort;Merge Sort;Selection Sort;Insertion Sort|1
+TF|16|The Great Wall of China is visible from space with the naked eye.|GENERAL|10|false
+TF|17|Java is a compiled and interpreted language.|PROGRAMMING|10|true
+TF|18|The Earth revolves around the Sun.|SCIENCE|10|true
+TF|19|Binary search requires a sorted array.|PROGRAMMING|10|true
+TF|20|The square root of 2 is a rational number.|MATH|10|false
